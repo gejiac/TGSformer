@@ -4,7 +4,7 @@ This repository contains the official implementation of **TGSformer**, a **Takag
 
 TGSformer embeds TSK fuzzy rules into the encoder layers, where rule activations directly participate in intermediate representation learning. The model jointly captures temporal dependencies, latent graph relations, and frequency-domain dynamics from EEG signals.
 
-![Overall architecture of TGSformer](TGSformer/overall.png)
+![Overall architecture of TGSformer](overall.png)
 
 ## Highlights
 
